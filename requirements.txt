@@ -1,0 +1,8 @@
+langgraph==0.2.22
+langgraph-sdk==0.1.30
+langgraph-checkpoint-sqlite==1.0.3
+langsmith==0.1.121
+langchain-community==0.3.0
+langchain-core==0.3.2
+langchain-openai==0.2.0
+notebook==7.2.2
